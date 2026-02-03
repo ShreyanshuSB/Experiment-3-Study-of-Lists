@@ -8,11 +8,11 @@ batch : Entc A1
 Experiment 3: Study of Lists in Python
 
 
-📌 Aim
+# Aim
 
 To study the concept of Lists in Python and understand their characteristics, usage, and common operations.
 
-📖 Theory
+# Theory
 Introduction to Lists
 
 A list is a built-in data structure in Python that allows storing multiple values in a single variable. Lists are widely used because they are flexible and can store different types of data together.
@@ -53,21 +53,21 @@ Traversing a List
 
 List elements can be accessed one by one using looping techniques. Traversing helps in displaying or processing each element stored in the list.
 
-🧪 Experiment Description
+# Experiment Description
 
 In this experiment, the concept of lists is studied by observing how lists are created, accessed, modified, and managed. Various list operations are explored to understand how Python handles grouped data efficiently.
 
-🖥️ Requirements
+# Requirements
 
 Python Programming Environment
 
 Basic understanding of Python syntax
 
-📝 Conclusion
+# Conclusion
 
 The study of lists in Python shows that lists are one of the most important and versatile data structures. They allow efficient storage and manipulation of multiple values. Understanding lists helps in solving real-world problems where handling collections of data is required. Lists form the foundation for advanced data structures and are essential for effective Python programming.
 
-📚 Learning Outcome
+# Learning Outcome
 
 Understanding of list concepts and properties
 
