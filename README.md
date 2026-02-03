@@ -8,6 +8,7 @@ batch : Entc A1
 Experiment 3: Study of Lists in Python
 
 Experiment 3: Study of Lists in Python
+
 📌 Aim
 
 To study the concept of Lists in Python and understand their characteristics, usage, and common operations.
