@@ -1,9 +1,9 @@
-#Study of Python Lists: Operations and Applications
+# Study of Python Lists: Operations and Applications
 
 # Experiment Overview
 This experiment (Experiment 3) focuses on the study of Python Lists, one of the most versatile and frequently used data structures in the Python programming language. The objective is to understand how lists store data, how to manipulate them using built-in methods, and how they can be applied to solve real-world data management problems such as tracking expenses, managing contacts, and analyzing scientific data like temperatures.
 
-By: Shreyanshu Behera
+Name: Shreyanshu Behera
 
 PRN: 25070123149
 
