@@ -7,7 +7,6 @@ batch : Entc A1
 ### tool : VS Code
 Experiment 3: Study of Lists in Python
 
-Experiment 3: Study of Lists in Python
 
 📌 Aim
 
